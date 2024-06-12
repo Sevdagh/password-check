@@ -1,6 +1,6 @@
 from time import sleep
 print("you should give me the password that:\n 1. has at least 6 characters \n 2. has an appercase letter\n 3.has a symbol from the list below:\n '.' , '_' , '/', '?'")
-sleep(1)
+sleep(5)
 n = input("type the password")
 # 6 characters
 # at least 1 capital letter
